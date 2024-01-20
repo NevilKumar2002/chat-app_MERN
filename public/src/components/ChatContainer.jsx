@@ -152,7 +152,7 @@ const Container = styled.div`
       &-thumb {
         background-color: #ffffff39;
         width: 0.1rem;
-        border-radius: 1rem;
+        border-radius: 0.8rem;
       }
     }
     .message {
